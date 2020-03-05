@@ -1,3 +1,5 @@
+//ax2 + bx + c = 0
+
 package Objectives;
 
 public class Objective_1 
