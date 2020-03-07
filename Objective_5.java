@@ -1,4 +1,4 @@
-//Бинарный поиск
+//Binary search
 
 package Objectives_1_week;
 
