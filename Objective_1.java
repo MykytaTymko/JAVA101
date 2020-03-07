@@ -1,6 +1,6 @@
 //ax2 + bx + c = 0
 
-package Objectives;
+package Objectives_1_week;
 
 public class Objective_1 
 {
