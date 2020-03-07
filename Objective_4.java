@@ -1,4 +1,4 @@
-//сортировка Шелла
+//Shell sort
 
 package Objectives_1_week;
 
