@@ -1,0 +1,42 @@
+package Objectives_1_week;
+
+public class Objective_5
+{
+    public static void main(String[] args)
+    {   
+        int data[] = { 3, 6, 7, 10, 34, 56, 60 };
+        int numberToFind = 10;
+        
+        int length = data.length;
+        int first = 0;
+        int last = length - 1;       
+        
+        while (first <= last+1)
+        {
+            int middle = (first + last)/2;    
+            
+            if(first <= last){
+            if (data[middle] == numberToFind)
+            {    
+                System.out.print(middle);
+                break;
+            }
+            
+            else if (data[middle] < numberToFind)
+                first = middle + 1;
+            
+            else if (data[middle] > numberToFind)
+                last = middle - 1;
+            }
+            
+            else
+            {
+                System.out.print(-1);
+                break;
+            }    
+        } 
+    }
+}
+
+     
+
