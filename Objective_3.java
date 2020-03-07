@@ -1,6 +1,6 @@
 //Метод пузырька
 
-package Objectives;
+package Objectives_1_week;
 
 public class Objective_3 
 {
