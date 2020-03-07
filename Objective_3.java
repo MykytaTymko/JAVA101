@@ -1,4 +1,4 @@
-//Метод пузырька
+//Bubble sort
 
 package Objectives_1_week;
 
