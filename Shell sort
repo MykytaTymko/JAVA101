@@ -1,8 +1,8 @@
 //Shell sort
 
-package Objectives_1_week;
+package first_week;
 
-public class Objective_4
+public class Shell_sort
 {
       	public static void main(String[] args)
         {
