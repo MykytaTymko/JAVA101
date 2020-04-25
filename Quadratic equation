@@ -1,8 +1,8 @@
-//ax2 + bx + c = 0
+//ax^2 + bx + c = 0
 
-package Objectives_1_week;
+package first_week;
 
-public class Objective_1 
+public class Quadratic_equation 
 {
     public static void main(String[] args)
     {
