@@ -1,0 +1,17 @@
+//Fibonacci recursion
+
+package second_week;
+
+public class Fibonacci {
+   public long getNumber(int position){
+                if (position < 1){
+                    return -1;
+                }
+                if (position == 1){
+                    return 1;
+                }    
+                else{
+                    return getNumber(position - 1) + getNumber(position - 2);
+                } 
+   }
+}
